@@ -8,12 +8,15 @@ A simple and responsive Body Mass Index (BMI) calculator built using HTML, CSS, 
 
 ## 📸 Preview
 
-<img src="8ec8b16a-57bc-4641-8c4c-07f5a70f2278.png" alt="BMI Calculator Screenshot" width="400"/>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/mightynawiin/Bmi-calculator/main/bmiss/Screenshot%202025-05-29%20125606.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/mightynawiin/Bmi-calculator/main/bmiss/Screenshot%202025-05-29%20130237.png" width="48%" />
+</p>
 
 ## 🛠️ Built With
 
-- 🖼️ HTML – Structure of the calculator
-- 🎨 CSS – Styling and responsiveness
+- 🖼️ HTML – Structure of the calculator  
+- 🎨 CSS – Styling and responsiveness  
 - ⚙️ JavaScript – BMI logic and interactivity
 
 ## 📦 How to Use
