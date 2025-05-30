@@ -4,7 +4,7 @@ A simple and responsive Body Mass Index (BMI) calculator built using HTML, CSS, 
 
 ## 🚀 Live Demo
 
-[Click here to try it out!](#) <!-- Replace # with your GitHub Pages or hosted link -->
+[Click here to try it out!](https://mighty-bmi-calculator.vercel.app/) <!-- Replace # with your GitHub Pages or hosted link -->
 
 ## 📸 Preview
 
